@@ -32,3 +32,8 @@ out ids;`
 (._;>;);
 out ids;`
 ```
+
+![image](https://user-images.githubusercontent.com/61907628/124501833-f183a180-ddca-11eb-91f5-c2939dc4577a.png)
+
+
+
