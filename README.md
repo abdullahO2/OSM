@@ -1,12 +1,12 @@
 # OSM-city-and-town
 في هذه الصفحة استخراج للمدن المضاف عليها عدد السكان بالوسمين:
 
-place=city
+place=city المدن الكبيرة
 ![place=city](https://github.com/abdullahO2/OSM-city-and-town/blob/main/place%3Dcity.png)
 
 و
 
-place=town
+place=town المدن الغير كبيرة
 ![place=town](https://github.com/abdullahO2/OSM-city-and-town/blob/main/place%3Dtown.png)
 
 على شبكة خرائط الشارع المفتوحة
