@@ -1,0 +1,17 @@
+[out:xml][timeout:9999];
+
+(
+  nwr["place"="city"]["population"];
+);
+(._;>;);
+out ids;
+
+--------------------------------------
+
+[out:xml][timeout:9999];
+
+(
+  nwr["place"="town"]["population"];
+);
+(._;>;);
+out ids;
