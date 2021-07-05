@@ -13,7 +13,8 @@ place=town
 
 وذلك عبر الاستعلام التالي الذي تم تنفذيه بواسطة محرر جوسم
 
-```[out:xml][timeout:9999];
+```
+[out:xml][timeout:9999];
 
 (
   nwr["place"="city"]["population"];
